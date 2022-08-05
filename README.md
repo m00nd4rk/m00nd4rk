@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h1 align="center">m00nd4rk | <a href="https://discord.gg/xepos"> discord.gg/xepos</a></h2>
+<h1 align="center">Alt of m00nd4rk | <a href="https://github.com/userXdiscord"> My Actual Github</a></h2>
 
 <p align="center"> 
   <kbd>
